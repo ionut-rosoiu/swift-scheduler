@@ -1,0 +1,10 @@
+ * *Queue*
+   # http://research.sun.com/techrep/2005/smli_tr-2005-144.pdf
+
+ * *Cilk*
+   # http://supertech.csail.mit.edu/papers/steal.pdf
+   # http://eprints.kfupm.edu.sa/29733/1/29733.pdf
+   # http://supertech.csail.mit.edu/papers/cilk5.pdf
+
+ * *Wool-A Workstealing*
+   # http://www.bth.se/fou/Forskinfo.nsf/all/f3f9bf36eb78e429c12574fe002dea8e/$file/mcc08_proceedings.pdf
