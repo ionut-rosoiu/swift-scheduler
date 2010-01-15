@@ -1,3 +1,5 @@
+#sidebar TOC
+
  * *Queue*
    # http://research.sun.com/techrep/2005/smli_tr-2005-144.pdf
 
