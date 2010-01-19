@@ -9,6 +9,7 @@
    # http://supertech.csail.mit.edu/papers/cilk5.pdf
 
  * *Queue*
+   # http://research.sun.com/scalable/pubs/main-10.pdf
    # http://research.sun.com/techrep/2005/smli_tr-2005-144.pdf
 
  * *Wool-A Workstealing*
